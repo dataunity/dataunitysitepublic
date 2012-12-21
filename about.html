@@ -1,30 +1,89 @@
-<html>
-<head>
-	<title>Data Unity : About</title>
-	<link rel="shortcut icon" href="/static/images/favicon.ico" />
-	<link href="/static/css/site.css" rel="stylesheet">
-</head> 
-<body>
-<div id="container">
-	<div id="header">
-		<h1>Data Unity</h1>
-		<div id="strapline">Explore | Visualise | Share</div>
-		<div id="header-banner">
-			<img src="/static/images/main/banner-logo.jpg" alt="Data Unity Logo"/>
-		</div>
-	</div>
-	<div id="navigation">
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">About</a></li>
-			<li><a href="contact.html">Contact Us</a></li>
-		</ul>
-	</div>
-	<div id="content">
-		
-		<h2>
-			About
-		</h2>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Data Unity: About Data Unity's Open Data tools</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About Data Unity Open Data tools">
+    <meta name="author" content="Data Unity Ltd">
+    <link rel="shortcut icon" href="/static/images/favicon.ico" />
+
+    <!-- Le styles -->
+    <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/bootstrap/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/bootstrap/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/bootstrap/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/bootstrap/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/static/bootstrap/ico/favicon.png">
+    
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">data unity</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li id="home"><a href="index.html">Home</a></li>
+              <li id="about"><a href="about.html">About</a></li>
+              <li id="contact"><a href="contact.html">Contact</a></li>
+              <!--  
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li class="divider"></li>
+                  <li class="nav-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li>
+              -->
+            </ul>
+            <form class="navbar-form pull-right">
+              <input class="span2" type="text" placeholder="Email">
+              <input class="span2" type="password" placeholder="Password">
+              <button type="submit" class="btn">Sign in</button>
+            </form>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+	<script>
+		$(document).ready(function () {
+			$('.nav li#about').addClass("active");
+		});
+	</script>
+		<img src="/static/images/logos/data-unity-logo.png" alt="Data Unity Logo"/>
+
 		<h3>Why is Data Unity needed?</h3>
 		<p>
 			People often lack the technical skills to engage with open data or their own organisation's data. Although there are tools like spreadsheets available, extracting meaningful insights can be challenging. This barrier is preventing people unlocking the value in data and releasing it to the organisation's stakeholders. It also means there's little motivation for organisations to release their data if people aren't engaging with it. Using Data Unity people will be able to get results from data which leads to a virtuous cycle where they seek out more data from organisations, increasing the impact of work. 
@@ -42,11 +101,31 @@
 		</p>
 
 
-	</div>
-	<div id="footer">
-		Copyright Data Unity Ltd, 2012
-	</div>
-</div>
-</body>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Data Unity Ltd 2012&nbsp;&nbsp;&nbsp; Generously supported by Nominet Trust</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/static/bootstrap/js/jquery.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-scrollspy.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-button.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-typeahead.js"></script>
+  </body>
 </html>
 

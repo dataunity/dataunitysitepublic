@@ -1,51 +1,146 @@
-<html>
-<head>
-	<title>Data Unity</title>
-	<link rel="shortcut icon" href="/static/images/favicon.ico" />
-	<link href="/static/css/site.css" rel="stylesheet">
-</head> 
-<body>
-<div id="container">
-	<div id="header">
-		<h1>Data Unity</h1>
-		<div id="strapline">Explore | Visualise | Share</div>
-		<div id="header-banner">
-			<img src="/static/images/main/banner-logo.jpg" alt="Data Unity Logo"/>
-		</div>
-	</div>
-	<div id="navigation">
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">About</a></li>
-			<li><a href="contact.html">Contact Us</a></li>
-		</ul>
-	</div>
-	<div id="content">
-		
-		<h2>
-			Welcome to Data Unity!
-		</h2>
-		<p>
-			Data Unity is an open source web tool that lets people engage with structured data and share their discoveries with others. The tool promotes Open Data, where users can query and publish data both from within their organisation and outside. 
-		</p>
-		<p>
-			The key parts of Data Unity are:
-			<ul>
-				<li><strong>Publish</strong>: Make your data available to everyone
-				<li><strong>Explore</strong>: Find insights in your data using the Data Explorer tool
-				<li><strong>Share</strong>: Share your insights widely, both inside and outside your organisation
-			</ul>
-			
-		</p>
-		<p>
-			This project is generously supported by Nominet Trust.
-		</p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Data Unity: Open Data tools to explore and visualise data</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Data Unity's Open Data tools let you explore and visualise data then share discoveries with others online.">
+    <meta name="author" content="Data Unity Ltd">
+    <link rel="shortcut icon" href="/static/images/favicon.ico" />
 
-	</div>
-	<div id="footer">
-		Copyright Data Unity Ltd, 2012
-	</div>
-</div>
-</body>
+    <!-- Le styles -->
+    <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/bootstrap/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/bootstrap/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/bootstrap/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/bootstrap/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/static/bootstrap/ico/favicon.png">
+    
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">data unity</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li id="home"><a href="index.html">Home</a></li>
+              <li id="about"><a href="about.html">About</a></li>
+              <li id="contact"><a href="contact.html">Contact</a></li>
+              <!--  
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li class="divider"></li>
+                  <li class="nav-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li>
+              -->
+            </ul>
+            <form class="navbar-form pull-right">
+              <input class="span2" type="text" placeholder="Email">
+              <input class="span2" type="password" placeholder="Password">
+              <button type="submit" class="btn">Sign in</button>
+            </form>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+	<script>
+		$(document).ready(function () {
+			$('.nav li#home').addClass("active");
+		});
+	</script>
+	  <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+      	<img src="/static/images/logos/data-unity-logo-grey.png" alt="Data Unity Logo" />
+        <!-- <h1>Hello, world!</h1> -->
+        <p>Data Unity is an open source web tool which lets you explore and visualise data then share discoveries with others. The tool promotes Open Data, where you can query and publish data from within your organisation and outside.</p>
+        <p><a class="btn btn-success btn-large">Learn more &raquo;</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="span4">
+          <h2>Free your data</h2>
+          <p>With Data Unity you can:
+			<ul>
+				<li><strong>Explore</strong>: Find insights in your data using the Data Explorer tool</li>
+				<li><strong>Visualise</strong>: Beautify your data, so people want to look at it
+				<li><strong>Share</strong>: Share your insights widely, both inside and outside your organisation
+				<li><strong>Publish</strong>: Set your data free
+			</ul>
+		  </p>
+          <p><a class="btn" href="#">View details &raquo;</a></p>
+        </div>
+        <div class="span4">
+          <h2>Getting started</h2>
+          <p>It's easy to get started using Data Unity. Find out how to free your data with our simple guide. </p>
+          <p><a class="btn" href="#">Coming soon... &raquo;</a></p>
+       </div>
+        <div class="span4">
+          <h2>Examples</h2>
+          <p>See how people have used Data Unity to uncover and share data discoveries.</p>
+          <p><a class="btn" href="#">Coming soon... &raquo;</a></p>
+        </div>
+      </div>
+
+
+      <hr>
+
+      <footer>
+        <p>&copy; Data Unity Ltd 2012&nbsp;&nbsp;&nbsp; Generously supported by Nominet Trust</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/static/bootstrap/js/jquery.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-scrollspy.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-button.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="/static/bootstrap/js/bootstrap-typeahead.js"></script>
+  </body>
 </html>
 
