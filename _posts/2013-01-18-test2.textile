@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Git Parable
+title: test 2
 ---
 
 h1. {{ page.title }}
