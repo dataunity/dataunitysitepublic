@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 25 Jan 2013 - Bristol
 
-Here's the slides I presented at last week's Nominet Trust workshop (17th Jan):.
+Here's the slides I presented at last week's Nominet Trust workshop (17th Jan):
 
 <a href="/docs/presentations/2013_01 - Data Unity in a nutshell.pptx" target="_blank">Nominet Trust Presentation - Jan 2013</a>
 
