@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Open Data hack day: Life expectancy in Bristol
+title: Open Data hack day - Life expectancy in Bristol
 ---
 
 h1. {{ page.title }}
