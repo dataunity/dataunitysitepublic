@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Open Data hack day - Life expectancy in Bristol
+title: Get coordinates from postcode data with Ordinance Survey OpenSpace API
 ---
 
 h1. {{ page.title }}
