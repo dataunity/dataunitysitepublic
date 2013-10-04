@@ -13,4 +13,4 @@ The locations for the workshops are Bristol, Liverpool and Birmingham. Dates are
 
 To register an interest, please contact us on the email address on our <a href="/contact.html">contact page</a>.
 
-You can keep up to date with the latest developments for Data Unity by signing up to the newsletter on our <a href="www.dataunity.org">home page</a>.
+You can keep up to date with the latest developments for Data Unity by signing up to the newsletter on our <a href="http://www.dataunity.org">home page</a>.
