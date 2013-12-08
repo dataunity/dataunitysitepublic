@@ -18,7 +18,8 @@ We choose the file labelled <a href="http://webarchive.nationalarchives.gov.uk/2
 <p style="text-align:center;">
 <img src="/static/images/blog_post_files/pedestrian_fatalities.png" alt="Pedestrian Fatalities"/>
 *Pedestrian fatalities by hour of the day*
-
+</p>
+<p style="text-align:center;">
 <img src="/static/images/blog_post_files/cycle_fatalities.png" alt="Cycling Fatalities"/>
 *Cycling fatalities by hour of the day*
 </p>
