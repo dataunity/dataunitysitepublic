@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 29 November 2013 - Kev Kirkland
 
-<img src="/static/images/blog_post_files/traffic_accident_header.png" alt="Traffic accident header">
+<img src="/static/images/blog_post_files/traffic_accident_header.png" style="text-align:center;" alt="Traffic accident header">
 
 We ran an Open Data workshop in Bristol yesterday. The day was kindly hosted by the Pervasive Media Studio in Watershed with attendees from Environment Agency, Apache Foundation, ODI as well as local charities from England and Wales. Thanks to the people who attended for the stimulating discussions.
 
