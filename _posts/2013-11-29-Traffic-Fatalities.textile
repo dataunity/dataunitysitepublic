@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 p(meta). 29 November 2013 - Kev Kirkland
 
+<img src="/static/images/blog_post_files/traffic_accident_header.png" alt="Traffic accident header">
+
 We ran an Open Data workshop in Bristol yesterday. The day was kindly hosted by the Pervasive Media Studio in Watershed with attendees from Environment Agency, Apache Foundation, ODI as well as local charities from England and Wales. Thanks to the people who attended for the stimulating discussions.
 
 Ian Coles from Sustrans suggested we look at some of the Department for Transport figures on <a href="http://data.gov.uk" target="_blank">data.gov.uk</a>. We searched for data in CSV format which led us to one result - <a href="http://data.gov.uk/dataset/gb-fatal-reported-road-accidents-06-08" target="_blank">Reported fatal personal injury road accident and casualty data: GB 2006-2008</a>. Unfortunately the data link seems to be down, but following the archive links got us to some data from 2011 <a href="http://webarchive.nationalarchives.gov.uk/*/http://www.dft.gov.uk/csv/601519/fatalaccidentdata.csv" target="_blank">here</a>. 
