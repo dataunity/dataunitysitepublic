@@ -3,8 +3,6 @@ layout: base
 title: Traffic Fatalities
 ---
 
-h1. {{ page.title }}
-
 p(meta). 29 November 2013 - Kev Kirkland
 
 <p style="text-align:center;">
