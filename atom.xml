@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Data Unity Blog</title>
- <link href="http://dataunity.org/atom.xml" rel="self"/>
- <link href="http://dataunity.org/"/>
+ <link href="http://www.dataunity.org/atom.xml" rel="self"/>
+ <link href="http://www.dataunity.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://dataunity.org/</id>
+ <id>http://www.dataunity.org/</id>
  <author>
    <name>Data Unity</name>
    <email>kev@dataunity.org</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://dataunity.org{{ post.url }}"/>
+   <link href="http://www.dataunity.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://dataunity.org{{ post.id }}</id>
+   <id>http://www.dataunity.org{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
