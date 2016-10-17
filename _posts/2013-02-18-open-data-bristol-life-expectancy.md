@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Open Data hack day - Life expectancy in Bristol
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 18 Feb 2013 - Kev Kirkland
+## 18 Feb 2013 - Kev Kirkland
 
 About 15 people came together to look at various aspects of Bristol data as part of a HackReduce session at the weekend (South West Big Data). Here's some charts showing life expectancy at birth gathered from Open Data released by Bristol council. The data was fetched from data.bristol.gov.uk and the Python code I used to generate the charts is included as a link in the results. Both the code and the site are a bit ugly, but represents what can be generated in a couple of hours on a Saturday afternoon.
 

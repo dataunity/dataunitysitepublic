@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Nominet Trust Presentation
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 25 Jan 2013 - Bristol
+## 25 Jan 2013 - Bristol
 
 Here's the slides I presented at last week's Nominet Trust workshop (17th Jan):
 

@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Why should I care about the Semantic Web?
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 12 December 2014 - Kev Kirkland
+## 12 December 2014 - Kev Kirkland
 
 The Semantic Web is a technology which has been hovering in the background for over a decade now. Why should you care about it?
 

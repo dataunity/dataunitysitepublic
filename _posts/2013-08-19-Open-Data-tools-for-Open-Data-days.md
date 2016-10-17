@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Open Data tools for Open Data days
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 19 August 2013 - Kev Kirkland
+## 19 August 2013 - Kev Kirkland
 
 I was reminded why we started the Data Unity project a couple of weeks ago at the first DataKindUK DataDive (thanks to Duncan, Jake and the team at DataKind plus Mozilla for making the weekend happen).
 

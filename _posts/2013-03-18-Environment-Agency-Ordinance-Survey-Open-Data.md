@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Environment Agency and Ordinance Survey Open Data
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 18 March 2013 - Kev Kirkland
+## 18 March 2013 - Kev Kirkland
 
 Many thanks to the Environment Agency and Ordinance Survey (plus Geeks of London) for organising the env[:hack] event at Bristol Uni this weekend. Lots of apps generated in a short space of time, people seem really fired up by environment data.
 

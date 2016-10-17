@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Are dashboards backwards looking?
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 9 Feb 2013 - Kev Kirkland
+## 9 Feb 2013 - Kev Kirkland
 
 Is it true that dashboards are only backwards looking, as someone suggested today? 
 

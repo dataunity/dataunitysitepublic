@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Shopping Baskets and Social Problems
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 12 June 2014 - Kev Kirkland
+## 12 June 2014 - Kev Kirkland
 
 I was fortunate enough to attend the 2014 DataDive at the weekend which was organised by <a href="http://datakind.org.uk/" target="_blank">DataKindUK</a> (thanks to Nesta for funding the event and Mozilla for space). It was a privilege to work alongside some incredibly smart data scientists and some incredibly committed charities.
 
