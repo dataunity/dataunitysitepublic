@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Data Reviews - Code Reviews for Data
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 18 Jan 2013 - Bristol
+## 18 Jan 2013 - Bristol
 
 In software development we have code reviews where another developer will look over your code and mention areas which need improvement. If the code is released in an open way, like publishing to github, then number of people who can review the data is huge. It's a fantastic way to get the wisdom and experience of other experts.
 
