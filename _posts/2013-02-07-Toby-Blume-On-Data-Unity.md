@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Introducing.....Data Unity
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 7 Feb 2013
+## 7 Feb 2013
 
 From the blog post by Toby Blume:
 

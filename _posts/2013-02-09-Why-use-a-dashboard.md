@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Why would you use a dashboard?
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 9 Feb 2013 - Kev Kirkland
+## 9 Feb 2013 - Kev Kirkland
 
 An interesting discussion came up on Twitter, why would you use a dashboard?
 

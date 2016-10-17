@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: The quiet data revolution starts here….hopefully!
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 9 December 2013 - Toby Blume
+## 9 December 2013 - Toby Blume
 
 Today saw the launch of a new platform aimed at voluntary and community groups, social organisations and citizens with an interest in making better use of data. Data Unity, a project I’ve been working on for the last year or so, was launched this morning at a breakfast seminar close to Silcon Roundabout (that’s Old Street to you and me!). <a href="http://www.nominettrust.org.uk/news-events/news/two-new-online-tools-launch-to-enable-complex-data-to-be-found-visualised-shared-an" target="_blank">The project, which is being supported by the ‘tech for social good’ funder, Nominet Trust</a>, offers a free and simple way for people to grab a piece of the open data techfest, without having to do post-graduate degrees in statistics or social geography.
 

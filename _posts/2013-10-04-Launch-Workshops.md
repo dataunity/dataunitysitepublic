@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Open Data workshops for Data Unity launch
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 4 October 2013 - Kev Kirkland
+## 4 October 2013 - Kev Kirkland
 
 We're excited to announce we're holding some Open Data workshops as part of the launch of Data Unity. We'll be running the workshops alongside another Nominet Trust funded project called WikiVOIS from SROI (www.wikivois.org). This is a great opportunity to get a demonstration of both Data Unity and WikiVOIS in action.
 

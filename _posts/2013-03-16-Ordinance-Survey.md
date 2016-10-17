@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Get coordinates from postcode data with Ordinance Survey OpenSpace API
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 16 March 2013 - Kev Kirkland
+## 16 March 2013 - Kev Kirkland
 
 If you need to get geographic co-ordinates for a postcode you can use the Ordinace Survey OpenSpaces web api.
 

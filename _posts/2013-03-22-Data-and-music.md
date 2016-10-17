@@ -1,11 +1,11 @@
 ---
-layout: base
+layout: page
 title: Data and music
 ---
 
-h1. {{ page.title }}
+# {{ page.title }}
 
-p(meta). 22 March 2013 - Kev Kirkland
+## 22 March 2013 - Kev Kirkland
 
 Saw an interesting talk at Pervasive Media Labs about real time sensors. X-io have designed a board which broadcasts data for the 'music gloves' used by Imogen Heap (amongst other things, see http://www.x-io.co.uk/).
 
