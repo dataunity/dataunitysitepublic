@@ -1,6 +1,7 @@
 ---
-layout: baseblog
+layout: default
 title: Data Unity Blog
+permalink: blog
 ---
 
 <div id="home">
