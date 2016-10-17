@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   enable-background="new 0 0 16 16"
+   xml:space="preserve"
+   fill="#000000"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="unlocked.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs7" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview5"
+   showgrid="false"
+   inkscape:zoom="4.9166667"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="302"
+   inkscape:window-y="159"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" /> <path
+   d="M 39.00,21.00 L 15.00,21.00 L 15.00,15.00 C 15.00,10.029 19.029,6.00 24.00,6.00 C 27.915,6.00 31.206,8.514 32.448,12.00 L 38.697,12.00 C 37.308,5.154 31.257,0.00 24.00,0.00 C 15.717,0.00 9.00,6.714 9.00,15.00 L 9.00,21.00 C 7.344,21.00 6.00,22.344 6.00,24.00 L 6.00,45.00 C 6.00,46.659 7.344,48.00 9.00,48.00 L 39.00,48.00 C 40.659,48.00 42.00,46.659 42.00,45.00 L 42.00,24.00 C 42.00,22.344 40.659,21.00 39.00,21.00 Z M 36.00,27.00 L 36.00,42.00 L 12.00,42.00 L 12.00,27.00 L 36.00,27.00 Z"
+   id="path3"
+   style="fill:#0089ce;fill-opacity:1"
+   inkscape:export-filename="/home/normal/Projects/DataUnity/Temp/website/v2_dev/images/icons/unlocked.png"
+   inkscape:export-xdpi="393.75"
+   inkscape:export-ydpi="393.75" /></svg>

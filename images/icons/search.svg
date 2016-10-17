@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   enable-background="new 0 0 16 16"
+   xml:space="preserve"
+   fill="#000000"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="search.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs7" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview5"
+   showgrid="false"
+   inkscape:zoom="4.9166667"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="405"
+   inkscape:window-y="185"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" /> <path
+   d="M 46.599,40.236l-10.545-10.545C 37.89,26.718, 39.00,23.25, 39.00,19.50 C 39.00,8.73, 30.27,0.00, 19.50,0.00S0.00,8.73,0.00,19.50S 8.73,39.00, 19.50,39.00c 3.75,0.00, 7.218-1.11, 10.188-2.943l 10.548,10.545c 1.758,1.758, 4.605,1.758, 6.363,0.00 S 48.357,41.994, 46.599,40.236z M 19.50,33.00C 12.045,33.00, 6.00,26.955, 6.00,19.50S 12.045,6.00, 19.50,6.00S 33.00,12.045, 33.00,19.50S 26.955,33.00, 19.50,33.00z"
+   id="path3"
+   style="fill:#0089ce;fill-opacity:1"
+   inkscape:export-filename="/home/normal/Projects/DataUnity/Temp/website/v2_dev/images/icons/search.png"
+   inkscape:export-xdpi="394.40323"
+   inkscape:export-ydpi="394.40323" /></svg>
