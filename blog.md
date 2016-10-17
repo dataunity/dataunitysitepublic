@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Unity Blog
-permalink: blog
+permalink: /blog
 ---
 
 <div id="home">
