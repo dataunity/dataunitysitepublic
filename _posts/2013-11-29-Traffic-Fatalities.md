@@ -17,15 +17,21 @@ Ian Coles from Sustrans suggested we look at some of the Department for Transpor
 We choose the file labelled <a href="http://webarchive.nationalarchives.gov.uk/20110204061441/http://www.dft.gov.uk/csv/601519/fatalaccidentdata.csv" target="_blank">Feb 04 2011</a>. Visualising the data in Data Unity gives us the following views on road accidents (each segment represents a one hour time slot showing the proportion of deaths in that hour):
 <div style="text-align:center;">
 <img src="/images/blog_post_files/pedestrian_fatalities.png" alt="Pedestrian Fatalities"/>
+
 *Pedestrian fatalities by hour of the day*
+
 </div>
 <div style="text-align:center;">
 <img src="/images/blog_post_files/cycle_fatalities.png" alt="Cycling Fatalities"/>
+
 *Cycling fatalities by hour of the day*
+
 </div>
+
 A quick look at the charts show us that there are different patterns for fatalities for pedestrians and cyclists:
-* It seems cyclists die more in daylight hours, whereas a significant proportion of pedestrian deaths happen throughout the night. Given the numbers of pedestrians dying at night, possibly alchol is a leading cause (drink driving or 'drink walking').
-* There seems to be more pedestrian deaths in evening peak times, than morning peak times, but the morning/evening balance is more even amoungst cyclists.
+
+- It seems cyclists die more in daylight hours, whereas a significant proportion of pedestrian deaths happen throughout the night. Given the numbers of pedestrians dying at night, possibly alchol is a leading cause (drink driving or 'drink walking').
+- There seems to be more pedestrian deaths in evening peak times, than morning peak times, but the morning/evening balance is more even amoungst cyclists.
 
 It's pretty sobering looking at figures which represents deaths, but by finding patterns we can raise awareness and get pointers to solutions to bring those fatalities down.
 
